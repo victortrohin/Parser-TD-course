@@ -1,0 +1,54 @@
+
+OK
+
++CSQ: 21,0
+
+OK
+
+OK
+
++COPN: "36320", "DIGICEL"
++COPN: "36301", "SETAR GSM"
++COPN: "90106", "Thuraya"
++COPN: "90114", "AeroMobile"
++COPN: "90112", "MCP Maritime Com"
++COPN: "60910", "no name"
++COPN: "28310", "no name"
++COPN: "90121", "Seanet"
+
+OK
+
+ERROR
+
++COPS: 0,0,"Vodafone RO",2
+
+OK
+
++COPS: 0,0,"Vodafone RO",2
+
+ERROR
+
++CREG: 1,1
+
+OK
+
++CREG: 1,1
+
+ERROR
+
++COPN: "36320", "DIGICEL"
++COPN: "36301", "SETAR GSM"
++COPN: "41201", "AF AWCC"
++COPN: "41240", "MTN AF"
++COPN: "41250", "Etisalat Af"
++COPN: "41220", "ROSHAN"
++COPN: "63102", "UNITEL"
++COPN: "90105", "Thuraya"
++COPN: "90106", "Thuraya"
++COPN: "90114", "AeroMobile"
++COPN: "90112", "MCP Maritime Com"
++COPN: "60910", "no name"
++COPN: "28310", "no name"
++COPN: "90121", "Seanet"
+
+OK
